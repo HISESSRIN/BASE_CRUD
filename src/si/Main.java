@@ -187,9 +187,8 @@ public class Main {
             while (N2 < M1){
                
                 System.out.println(i1);
-                N2+=i1;
-                i1+=A1;
-               
+                N2=N2+i1;
+              
             }
             break;
             
